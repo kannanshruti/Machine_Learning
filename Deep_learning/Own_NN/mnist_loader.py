@@ -1,5 +1,6 @@
 """
 mnist_loader
+Ref: http://neuralnetworksanddeeplearning.com
 ~~~~~~~~~~~~
 
 A library to load the MNIST image data.  For details of the data
