@@ -1,5 +1,6 @@
 '''
 Ref: http://neuralnetworksanddeeplearning.com
+Understanding how a NN works by implementing it from scratch
 '''
 import random
 import numpy as np
