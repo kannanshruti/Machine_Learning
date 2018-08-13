@@ -1,4 +1,5 @@
 '''
+WORK - IN - PROGRESS
 Dataset: IMDB sentiment classification dataset
 Each training sample consists of a sequence of integers, each of 
 which represents a word. The integer represents the frequency of the
