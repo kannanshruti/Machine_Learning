@@ -1,0 +1,7 @@
+Autoencoders:
+- Used for unsupervised learning of efficient encodings
+- Lossy data-specific compression
+- Learns a representation of a set of data, typically for the purpose of
+  dimensionality reduction
+- Cannot be used for compression since it is data specific
+
