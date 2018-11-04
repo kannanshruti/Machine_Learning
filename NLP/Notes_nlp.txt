@@ -1,0 +1,23 @@
+1. Semantic Analysis
+- Meaning conveyed by the text
+
+2. Syntactic Analysis
+- Grammatical structure of the text
+
+Techniques
+- Parsing
+	Break a sentence into its component parts
+- Stemming
+	Reducing a word to its word stem (touching to touch)
+- Text Segmentation
+	Transforming sentences to meaningful units (words, phrases, topics etc)
+- Named entity Recognition
+	Determines "named entities" in the sentence
+	Before NER: „Martin bought 300 shares of SAP in 2016.“ After NER: „[Martin]Person bought 300 shares of [SAP]Organization in [2016]Time.“
+- Relationship Extraction
+	Takes NER and tries to find a semantic relationship
+- Sentiment Analysis
+	Determine the attitude of the text
+
+DL and NLP
+- Placing the words in a higher dim space
